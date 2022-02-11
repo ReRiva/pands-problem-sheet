@@ -1,4 +1,6 @@
 #A program that print a phrase when every second letter is printed in reverse order.
+#Author : Renan Riva
+
 print ('This program will print out every second character of your sentence in reverse order ')
 
 #Asking for the phrase to the user and storing it as string
