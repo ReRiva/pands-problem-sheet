@@ -8,7 +8,7 @@ weight = int(input('Please enter your weight in Kilograms '))
 height = float(input('Please enter your height in Meters (Decimals) '))
 
 # Calculating the BMI using the formula and saving it in the BMI variable
-bmi = weight / (height*height)
+bmi = weight / (height**2)
 
 # Rouding the BMI Value and printing it.
 #Referrence (https://blog.finxter.com/limit-floats-to-two-decimal-points-python/)
