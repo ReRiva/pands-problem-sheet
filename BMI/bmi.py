@@ -7,7 +7,7 @@
 weight = int(input('Please enter your weight in Kilograms '))
 height = float(input('Please enter your height in Meters (Decimals) '))
 
-# Calculating the BMI using the formula and saving it in the BMI variable
+# Calculating the BMI using the formula and saving it in the BMI variable...
 bmi = weight / (height**2)
 
 # Rouding the BMI Value and printing it.
