@@ -30,19 +30,3 @@ number = readNumber() # Allocating the function to the vaariable number
 
 print ("The square root of ","%.1f" %number, "is ", "%.1f" %squareRoot(number)) # printing and formating the results to one decimal
 
-
-
-
-
-
-
-
-#def squareRoot(number):
-  #  guessSqrRoot = (number * 0.5) 
-   # aproSqrRoot = ((guessSqrRoot + number)/ guessSqrRoot)
-    #while guessSqrRoot != aproSqrRoot:
-     ##   aproSqrRoot = ((guessSqrRoot + number)/ guessSqrRoot)
-       # guessSqrRoot = aproSqrRoot
-       #    # return aproSqrRoot
-
-#print (squareRoot(1))
