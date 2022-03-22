@@ -7,4 +7,4 @@ print ('This program will print out every second character of your sentence in r
 phrase = str(input('Please type a sentence: '))
 
 reversedPhrase = phrase[::- 2] #Using negative indexes (Week 5) to add every second letter to the variable reversedPhrase .
-print (reversedPhrase)
+print (reversedPhrase) 
