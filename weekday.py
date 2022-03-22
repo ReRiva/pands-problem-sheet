@@ -10,4 +10,4 @@ index = today.weekday() # Will assing to index the value of corresponding to the
 if index <= 4:
     print ("Today is", weekdays[index],"Unfortunately today is a weekday.") 
 else:
-    print("Today is", weekdays[index], "It is the weekend, yay!")
+    print("Today is", weekdays[index], "It is the weekend, yay!") 
