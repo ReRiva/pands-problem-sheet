@@ -21,4 +21,4 @@ plt.yticks(np.arange(0, 70, step=4))    # Changing the start and beggining of th
 plt.legend()
 plt.xlabel("Value of X")                #Adding label to x line
 plt.ylabel("Function of X")             # Adding label to y line
-plt.show()                                 #Dispalying the plot
+plt.show()                                 #Dispalying the plot 
