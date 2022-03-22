@@ -28,5 +28,5 @@ def readNumber(): # Creating a function to stop the user to enter any amount tha
 
 number = readNumber() # Allocating the function to the vaariable number
 
-print ("The square root of ","%.1f" %number, "is ", "%.1f" %squareRoot(number)) # printing and formating the results to one decimal
+print ("The square root of ","%.1f" %number, "is ", "%.1f" %squareRoot(number)) # printing and formating the results to one decimal 
 
