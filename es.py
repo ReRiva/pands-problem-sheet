@@ -15,5 +15,5 @@ with open(sys.argv[1], "r") as file:   # Opening a file as "file"(read mode) fro
 
 
 # Printing the amount of letters both lower and Upper case individually and the sum of both
-print("The file has a total amount of {} ""E's""/""e's"". Divided into: \n{} ""E's"" and \n{} ""e's""".format(totalLetters, totalUpperletters, totalLowerletters))
+print("The file has a total amount of {} ""E's""/""e's"". Divided into: \n{} ""E's"" and \n{} ""e's""".format(totalLetters, totalUpperletters, totalLowerletters)) 
 
