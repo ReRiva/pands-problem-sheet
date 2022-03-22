@@ -12,4 +12,4 @@ bmi = weight / ((height/100)**2)
 
 # Rouding the BMI Value and printing it.
 #Referrence (https://blog.finxter.com/limit-floats-to-two-decimal-points-python/)
-print('Your BMI is (Kg/m²): {:01.2F}'.format(bmi))
+print('Your BMI is (Kg/m²): {:01.2F}'.format(bmi)) 
